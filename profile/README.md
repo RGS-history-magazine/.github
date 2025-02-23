@@ -2,6 +2,7 @@
 
 This is the official github organisation for the RGS history magazine.
 This will be primarily use for managing the text in the first part of the creation of a new issue.
+Not yet authorised
 
 <!--
 
